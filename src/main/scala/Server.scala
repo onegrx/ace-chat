@@ -1,4 +1,5 @@
 import akka.actor.{Terminated, ActorRef, Actor}
+import messages._
 
 /**
  * Created by onegrx on 02.01.16.

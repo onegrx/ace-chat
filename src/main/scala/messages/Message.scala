@@ -1,3 +1,5 @@
+package messages
+
 /**
  * Created by onegrx on 02.01.16.
  */
